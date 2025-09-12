@@ -1,2 +1,2 @@
 # dice1906
-web work
+starter_gallery_assignment.html
