@@ -4,8 +4,7 @@
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span style='font-size:24.0pt;line-height:107%'>Starter
-Gallery Assignment</span></p>
+<h1>Starter Gallery Assignment</h1>
 
 <p class=MsoNormal><span style='font-size:14.0pt;line-height:107%'>By: Eden
 Jones</span></p>
@@ -36,21 +35,21 @@ Art</span></p>
   border-top:none;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><img border=0 width=234 height=351 id="Picture 1"
-  src="starter_gallery_assignment_files/image001.jpg"></p>
+  src="image001.jpg"></p>
   </td>
   <td width=316 valign=top style='width:237.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><img border=0 width=278 height=343 id="Picture 2"
-  src="starter_gallery_assignment_files/image002.jpg"></p>
+  src="image002.jpg"></p>
   </td>
   <td width=346 valign=top style='width:259.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><img border=0 width=332 height=343 id="Picture 3"
-  src="starter_gallery_assignment_files/image003.jpg"></p>
+  src="image003.jpg"></p>
   </td>
  </tr>
  <tr>
@@ -125,7 +124,7 @@ Art</span></p>
   border-top:none;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><img border=0 width=324 height=262 id="Picture 4"
-  src="starter_gallery_assignment_files/image004.jpg"
+  src="image004.jpg"
   alt="Statues in the temple art culture in Khon Kaen Generality in Thailand, any kind of art decorated in Buddhist church, temple pavilion, temple hall, monk's house etc. created with money donated by people to hire artist. They are public domain or treasure of Buddhism, no restrict in copy or use, no name of artist appear (but, if there is artist name, it only for tell who is the artist or work, not for copyright). This photo is taken under these con ditions. Temple art stock images, royalty-free photos and pictures"></p>
   </td>
   <td width=316 valign=top style='width:237.3pt;border-top:none;border-left:
@@ -134,7 +133,7 @@ Art</span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><b><span style='font-size:14.0pt'><img border=0
   width=302 height=252 id="Picture 5"
-  src="starter_gallery_assignment_files/image005.jpg"
+  src="image005.jpg"
   alt="Art thai painting on wall in temple wat phra kaeo Bangkok Thailand. Temple art stock images, royalty-free photos and pictures"></span></b></p>
   </td>
   <td width=346 valign=top style='width:259.8pt;border-top:none;border-left:
@@ -143,7 +142,7 @@ Art</span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><b><span style='font-size:14.0pt'><img border=0
   width=298 height=256 id="Picture 6"
-  src="starter_gallery_assignment_files/image006.jpg"
+  src="image006.jpg"
   alt="Pattern Thai temple mural art on fine art of Thai art Thai painted. Delicate beauty. Is a story that tells of a tradition in religion and literature as well. Generality in Thailand, any kind of art decorated in Buddhist church, temple pavilion, temple hall, monk's house etc. Created with money donated by people to hire artist. They are public domain or treasure of Buddhism, no restrict in copy. Temple art stock images, royalty-free photos and pictures"></span></b></p>
   </td>
  </tr>
@@ -190,15 +189,7 @@ Art</span></p>
  </tr>
 </table>
 
-<p class=MsoNormal>&nbsp;</p>
 
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
 
 </div>
 
