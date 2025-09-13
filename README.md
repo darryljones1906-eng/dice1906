@@ -1,8 +1,4 @@
-# dice1906
 <html>
-
-<head>
-</head>
 
 <body lang=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:break-word'>
 
