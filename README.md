@@ -1,6 +1,6 @@
 <html>
 
-<body lang=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:break-word'>
+<body>
 
 <div class=WordSection1>
 
