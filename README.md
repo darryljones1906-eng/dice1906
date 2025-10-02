@@ -1,6 +1,6 @@
 <html lang="en">
 <h1>Math Quiz Submission Form</h1>
-<h3>Date: 09/22/2025</h3>
+<h3>Date: 10/01/2025</h3>
 <h3> by Eden Jones</h3>
 <head>
     <meta charset="UTF-8">
