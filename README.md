@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <body>
-
 <h1 style="text-align: center;">Color Scheme: Vibrant Palette</h1>
 <table>
     <thead>
