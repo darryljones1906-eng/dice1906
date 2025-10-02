@@ -36,7 +36,7 @@
 </head>
 <body>
 
-<h1 style="text-align: center;">Color Scheme: Vibrant Palette</h1>
+<h1 style="text-align: left;">Color Scheme: Vibrant Palette</h1>
 <table>
     <thead>
         <tr>
