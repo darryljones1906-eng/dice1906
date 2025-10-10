@@ -19,7 +19,7 @@
 }
 
 .breakfast {
-    background-image: url('https://example.com/breakfast.jpg'); /* Replace with your image URL */
+    background-image: url('image001.jpg'); /* Replace with your image URL */
     background-size: cover;
     background-repeat: no-repeat;
 }
