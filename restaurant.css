@@ -19,19 +19,19 @@
 }
 
 .breakfast {
-    background-image: url('image001.jpg'); /* Replace with your image URL */
+    background-image: url('breakfast.jpg'); /* Replace with your image URL */
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .lunch {
-    background-image: url('https://example.com/lunch.jpg'); /* Replace with your image URL */
+    background-image: url('schoollunch.jpg'); /* Replace with your image URL */
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .dinner {
-    background-image: url('https://example.com/dinner.jpg'); /* Replace with your image URL */
+    background-image: url('Turkey-Dinner-0848-1024x683.jpg'); /* Replace with your image URL */
     background-size: cover;
     background-repeat: no-repeat;
 }
