@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.team-member {
+    float: left;
+    width: 45%; /* Adjusted for two columns */
+    margin: 20px;
+    position: relative; /* To allow positioning of bio within the member div */
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.team-member img {
+    width: 100%; /* Responsive image */
+    border-radius: 5px;
+}
+
+.bio {
+    position: relative; /* Position relative to the team member div */
+    top: 10px; /* Slightly adjust position */
+}
+
+footer {
+    clear: both; /* Clear floats */
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+}
