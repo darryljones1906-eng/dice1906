@@ -1,11 +1,42 @@
 
+<style>
+    .grid-container {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-template-rows: auto auto;
+        grid-auto-flow: column dense;
+        height: 150px;
+        padding: 10px;
+        background-color: #40054a;
+    }
+    .grid-container div {
+        background-color: rgba(255, 255, 255, 0.8);
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: 10px 0;
+        font-size: 1.2em;
+        text-align: center;
+    }
+    .item3 {
+        grid-column-start: auto;
+        grid-column-end: span 2;
+    }
+    .item5 {
+        grid-row-start: auto;
+        grid-row-end: span 2;
+    }
+</style>
+<section class="grid-container">
+    <div class="item1">
+        1
+    </div>
+
+</section>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Puzzle Assignment</title>
-    <link rel="stylesheet" href="puzzle2.css">
+    <!link rel="stylesheet" href="puzzle2.css"-->
 </head>
 <body>
     <div class="grid-container">
