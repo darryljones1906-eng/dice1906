@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puzzle Assignment</title>
+    <style>
+        /* CSS Styles */
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-rows: auto 1fr auto;
+            grid-template-columns: 1fr;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .personal-info {
+            grid-row: 1;
+            background-color: #f0f0f0;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .puzzle-solving {
+            grid-row: 2;
+            background-color: #e0e0e0;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .completion-date {
+            grid-row: 3;
+            background-color: #d0d0d0;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .flex-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .flex-container img {
+            width: 100px; /* Adjust size as needed */
+            height: auto;
+        }
+
+        .hidden-piece {
+            display: none; /* Hide this piece */
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-container">
+        <section class="personal-info">
+            <h1>Your Name</h1>
+            <p>Brief personal information...</p>
+        </section>
+        <section class="puzzle-solving">
+            <h2>Puzzle Solving Section</h2>
+            <div class="flex-container">
+                <img src="images/piece1.jpg" alt="Puzzle Piece 1">
+                <img src="images/piece2.jpg" alt="Puzzle Piece 2">
+                <img src="images/piece3.jpg" alt="Puzzle Piece 3">
+                <img src="images/piece4.jpg" alt="Puzzle Piece 4">
+                <img src="images/piece5.jpg" alt="Puzzle Piece 5">
+                <img src="images/piece6.jpg" alt="Puzzle Piece 6">
+                <img src="images/piece7.jpg" alt="Puzzle Piece 7" class="hidden-piece">
+            </div>
+        </section>
+        <section class="completion-date">
+            <h2>Completion Date</h2>
+            <p>October 30, 2025</p>
+        </section>
+    </div>
+</body>
+</html>
